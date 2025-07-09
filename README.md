@@ -20,11 +20,16 @@ I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** s
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.https://www.linkedin.com/in/nithin-g-026b2627a/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:nithinnayak165@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/_nithinayak_) 
 
 ---
 
 ### 🧰 Tech Stack
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-yellow?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
