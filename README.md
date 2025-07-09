@@ -20,7 +20,7 @@ I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** s
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.https://www.linkedin.com/in/nithin-g-026b2627a/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:nithinnayak165@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/_nithinayak_) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/_nithinnayak_) 
 
 ---
 
