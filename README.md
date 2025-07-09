@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Nithin+G!;ISE+Student+%7C+AI-ML+Explorer;Lets+build+something+cool+together!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=4350&lines=Hey%2C+I'm+Nithin+G!;ISE+Student+%7C+AI-ML+Explorer;Lets+build+something+cool+together!+" alt="Typing SVG" />
 </p>
 
 ---
