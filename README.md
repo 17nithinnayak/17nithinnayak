@@ -41,9 +41,9 @@ I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** s
 
 | Project | Description |
 |--------|-------------|
-| 🔎 [**FoundIt**](https://github.com/nithinnayak/FoundIt) | AI-powered campus Lost & Found portal built with FastAPI & MongoDB |
-| 🚗 [**GoGroup**](https://github.com/nithinnayak/GroupGo) | Smart carpool matching system using ADA concepts |
-| 💬 [**Answer Classifier**](https://github.com/nithinnayak/FIntech-Mavericks) | Fine-tuned Transformer for classifying Q&A in transcripts(Won 1st place in Case study comp by IIM Mumbai for this project) |
+| 🔎 [**FoundIt**](https://github.com/17nithinnayak/FoundIt) | AI-powered campus Lost & Found portal built with FastAPI & MongoDB |
+| 🚗 [**GoGroup**](https://github.com/17nithinnayak/GroupGo) | Smart carpool matching system using ADA concepts |
+| 💬 [**Answer Classifier**](https://github.com/17nithinnayak/FIntech-Mavericks) | Fine-tuned Transformer for classifying Q&A in transcripts(Won 1st place in Case study comp by IIM Mumbai for this project) |
 
 ---
 
