@@ -10,7 +10,7 @@
 
 I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** student from **JSSSTU, Mysore**.
 
-- 🚀 Currently working on: `Prompt Engg`, `Transformer architecture` and `DSA`
+- 🚀 Currently working on: `RAG`, `VECTOR DBs`, `LLMs` and `DSA`
 - 🤖 Exploring: Generative AI, FastAPI, MongoDB, Deep Learning, Transformers  
 - 🧠 Learning: C++ DSA, AI for Business Decision-Making (MIT x IIM course)  
 - 🏆 Participated in multiple hackathons and Kaggle competitions  
