@@ -25,7 +25,7 @@ I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** s
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack 
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
