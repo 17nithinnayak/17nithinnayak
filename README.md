@@ -1,54 +1,63 @@
 <!-- Banner -->
-
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D24%26pause%3D1000%26color%3D00FFAB%26center%3Dtrue%26vCenter%3Dtrue%26width%3D700%26lines%3DHey%252C%2BI%27m%2BNithin%2BG!%3BAI%2BArchitect%2B%257C%2BHackathon%2BWinner%3BLet%27s%2Bbuild%2Bsomething%2Bgreat%2Btogether!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Nithin+G!;ISE+Student+%7C+AI-ML+Explorer;Let's+build+something+cool+together!" alt="Typing SVG" />
 </p>
 
-👋 About Me
-I'm an AI Architect and an Information Science Engineering student at JSSSTU, Mysore, with a proven track record of designing and building complex, multi-agent AI systems that win.
 
-My passion is turning ambitious ideas into robust, user-centric applications. I thrive under pressure and love the challenge of architecting a complete system from the ground up, as demonstrated by my recent 1st Place win at the Hackfusion 1.0 Hackathon for our project, FinAI.
+---
 
-🚀 Building: End-to-end AI systems with LangChain, FastAPI, and MongoDB.
+### 👋 About Me
 
-🤖 Specializing In: Multi-agent architecture, Explainable AI (XAI), and RAG.
+I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** student from **JSSSTU, Mysore**.
 
-🧠 Mastering: Data Structures & Algorithms in C++ via the NeetCode 150 grind.
+- 🚀 Currently working on: `RAG`, `VECTOR DBs`, `LLMs` and `DSA`
+- 🤖 Exploring: Generative AI, FastAPI, MongoDB, Deep Learning, Transformers  
+- 🧠 Learning: C++ DSA, AI for Business Decision-Making (MIT x IIM course)  
+- 🏆 Participated in multiple hackathons and Kaggle competitions  
 
-🏆 Achievements: Two-time 1st Place winner in major AI/Generative AI competitions.
+---
 
-🏆 Key Achievements
-🥇 1st Place Winner, Hackfusion 1.0 (MIT Mysore): Led the architecture and development of FinAI, a 4-agent financial advisor, beating 30+ teams in a 48-hour competition.
+### 🌐 Connect with Me
 
-🥇 1st Place Winner, GenAI Visionaries Case Competition (IIM Mumbai): Designed and presented a winning solution for analyzing financial transcripts using fine-tuned LLMs to a panel including Prof. David Simchi-Levi from MIT.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nithin-g-026b2627a/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:nithinnayak165@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/u/_nithinnayak_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/_nithinnayak_) 
 
-🚀 My Featured Projects
-Project
+---
 
-Description
+### 🧰 Tech Stack 
 
-Core Technologies
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-yellow?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-🥇 FinAI
+---
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=17nithinnayak&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-1st Place Hackathon Winner. A 4-agent financial advisor with a multilingual (English/Kannada) voice UI and an Explainable AI (XAI) core that validates investment advice against multiple live data sources (GNews, Alpha Vantage) to build user trust.
 
-LangChain, FastAPI, MongoDB, Multi-Agent Systems, XAI
+---
 
-🤖 AcadMate
+### 🚀 Projects
 
-A 3-agent AI college assistant designed to provide tiered, contextual academic support to students. Architected the Crow, Falcon, and Eagle agent system, utilizing advanced RAG techniques for deep understanding.
+| Project | Description |
+|--------|-------------|
+| 🔎 [**FoundIt**](https://github.com/17nithinnayak/FoundIt) | AI-powered campus Lost & Found portal built with FastAPI & MongoDB |
+| 🚗 [**GroupGo**](https://github.com/17nithinnayak/GroupGo) | Smart carpool matching system using ADA concepts |
+| 💬 [**Answer Classifier**](https://github.com/17nithinnayak/FIntech-Mavericks) | Fine-tuned Transformer for classifying Q&A in transcripts(Won 1st place in Case study comp by IIM Mumbai for this project) |
 
-LangChain, FastAPI, RAG, Prompt Engineering
+---
 
-💸 GenAI Earnings Call Analyzer
+## 📊 GitHub Contribution Graph
 
-1st Place Case Study Winner (IIM Mumbai). A system that uses fine-tuned LLMs (Llama-2) with multi-step reasoning to analyze the sentiment and key insights from corporate financial transcripts.
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=17nithinnayak&bg_color=ffffff&color=000000&line=0077b6&point=000000&area=true&hide_border=true)
 
-Hugging Face Transformers, Fine-Tuning, Streamlit, NLP
 
-🧰 My Tech Stack
-🌐 Connect with Me
-🏆 GitHub Trophies
-📊 GitHub Contribution Graph
-🧑‍🎓 "I'm not aiming to be perfect, I'm aiming to improve daily. Let's build futuristic tech." – Nithin
+> 🧑‍🎓 *"I'm not aiming to be perfect, I'm aiming to improve daily. Let's build futuristic tech."* – Nithin
+, lets update this?
