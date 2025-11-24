@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Nithin+G!;ISE+Student+%40+JSSSTU;5x+Hackathon+Winner+🏆;Web+Dev+Lead+%40+DSC" />
+<img src="/mnt/data/102210a3-2fbe-42dd-af28-c0ce8b9f16e9.png" width="600" />
+font=Fira+Code&size=28&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Nithin+G!;ISE+Student+%40+JSSSTU;5x+Hackathon+Winner+🏆;Web+Dev+Lead+%40+DSC" />
 
 <br/>
 
