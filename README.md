@@ -1,63 +1,110 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Nithin+G!;ISE+Student+%7C+AI-ML+Explorer;Let's+build+something+cool+together!" alt="Typing SVG" />
+<!-- HEADER -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D28%26pause%3D1000%26color%3D00FFAB%26center%3Dtrue%26vCenter%3Dtrue%26width%3D700%26lines%3DHey%252C%2BI%27m%2BNithin%2BG!%3BISE%2BStudent%2B%2540%2BJSSSTU%3B5x%2BHackathon%2BWinner+🏆;Building+AI+Agents+%26+RAG+Systems" alt="Typing SVG" />
+
+<p>
+<a href="https://www.linkedin.com/in/nithin-g-026b2627a/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
+<a href="mailto:nithinnayak165@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.google.com/search?q=https://leetcode.com/u/nithinnayak">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dwhite" />
+</a>
 </p>
+</div>
+
+👨‍💻 About Me
+
+I am a Pre-final year Information Science Engineering student at JSSSTU, Mysore, passionate about bridging the gap between complex AI models and real-world utility.
+
+🔭 Currently building: AcadMate (An AI-powered academic ecosystem with multi-agent orchestration).
+
+🤖 AI Focus: RAG Pipelines, Vector Databases, Fine-tuning LLMs, and Agentic Workflows.
+
+🧠 Grinding: Active on NeetCode 150 (C++ DSA) & exploring Transformers architecture.
+
+🤝 Community: Member of Vision Club, teaching tech literacy to school students in rural villages.
+
+🏆 Achievements & Hackathons
+
+🥇 Winner of 5 Hackathons
+
+1st Place - Case Study Competition @ IIM Mumbai: Developed Answer Classifier, a fine-tuned transformer model for financial transcripts.
+
+(Add your other specific hackathon wins here briefly, e.g., "Winner of [Hackathon Name] for [Project Name]")
+
+Top Performer in Kaggle Competitions.
+
+🛠️ Technical Arsenal
+
+Domain
+
+Technologies
+
+Languages
 
 
----
 
-### 👋 About Me
-
-I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** student from **JSSSTU, Mysore**.
-
-- 🚀 Currently working on: `RAG`, `VECTOR DBs`, `LLMs` and `DSA`
-- 🤖 Exploring: Generative AI, FastAPI, MongoDB, Deep Learning, Transformers  
-- 🧠 Learning: C++ DSA, AI for Business Decision-Making (MIT x IIM course)  
-- 🏆 Participated in multiple hackathons and Kaggle competitions  
-
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nithin-g-026b2627a/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:nithinnayak165@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/u/_nithinnayak_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/_nithinnayak_) 
-
----
-
-### 🧰 Tech Stack 
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-yellow?style=for-the-badge&logo=scikit-learn&logoColor=black)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=17nithinnayak&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+AI & ML
 
 
----
 
-### 🚀 Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔎 [**FoundIt**](https://github.com/17nithinnayak/FoundIt) | AI-powered campus Lost & Found portal built with FastAPI & MongoDB |
-| 🚗 [**GroupGo**](https://github.com/17nithinnayak/GroupGo) | Smart carpool matching system using ADA concepts |
-| 💬 [**Answer Classifier**](https://github.com/17nithinnayak/FIntech-Mavericks) | Fine-tuned Transformer for classifying Q&A in transcripts(Won 1st place in Case study comp by IIM Mumbai for this project) |
-
----
-
-## 📊 GitHub Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=17nithinnayak&bg_color=ffffff&color=000000&line=0077b6&point=000000&area=true&hide_border=true)
+Backend & DB
 
 
-> 🧑‍🎓 *"I'm not aiming to be perfect, I'm aiming to improve daily. Let's build futuristic tech."* – Nithin
-, lets update this?
+
+Tools
+
+
+
+🚀 Featured Projects
+
+Project
+
+Tech Stack
+
+Description
+
+🤖 AcadMate
+
+RAG LLMs FastAPI
+
+Flagship Project. A smart campus assistant featuring a 3-agent system: Crow (Quick info), Falcon (Deep RAG reasoning), and Eagle (Exam prep).
+
+🔎 FoundIt
+
+FastAPI MongoDB AI
+
+AI-powered Lost & Found portal. Uses image recognition to match lost items with found reports automatically.
+
+💬 Answer Classifier
+
+Transformers NLP
+
+IIM Mumbai Winner. Fine-tuned BERT model to classify Q&A segments in financial transcripts with high accuracy.
+
+🚗 GroupGo
+
+Algorithms Python
+
+Smart carpool matching system optimizing routes using Advanced Design & Analysis of Algorithms concepts.
+
+📊 GitHub Analytics
+
+<div align="center">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D17nithinnayak%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26count_private%3Dtrue" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D17nithinnayak%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" />
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3D17nithinnayak%26theme%3Donedark%26no-frame%3Dtrue%26margin-w%3D15" />
+</div>
+
+<div align="center">
+<i>"I'm not aiming to be perfect, I'm aiming to improve daily. Let's build futuristic tech."</i>
+</div>
