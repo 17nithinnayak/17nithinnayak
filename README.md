@@ -1,5 +1,3 @@
-# 💫 Hey, I'm Nithin G!
-
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Nithin+G!;ISE+Student+%40+JSSSTU;5x+Hackathon+Winner+🏆;Web+Dev+Lead+%40+DSC)
