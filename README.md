@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D28%26pause%3D1000%26color%3D00FFAB%26center%3Dtrue%26vCenter%3Dtrue%26width%3D700%26lines%3DHey%252C%2BI%27m%2BNithin%2BG!%3BISE%2BStudent%2B%2540%2BJSSSTU%3B5x%2BHackathon%2BWinner+🏆;Building+AI+Agents+%26+RAG+Systems" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D28%26pause%3D1000%26color%3D00FFAB%26center%3Dtrue%26vCenter%3Dtrue%26width%3D700%26lines%3DHey%252C%2BI%27m%2BNithin%2BG!%3BISE%2BStudent%2B%2540%2BJSSSTU%3B5x%2BHackathon%2BWinner+🏆;Web+Dev+Lead+%40+DSC" alt="Typing SVG" />
 
 <p>
 <a href="https://www.linkedin.com/in/nithin-g-026b2627a/">
@@ -20,13 +20,13 @@
 
 I am a Pre-final year Information Science Engineering student at JSSSTU, Mysore, passionate about bridging the gap between complex AI models and real-world utility.
 
-🔭 Currently building: AcadMate (An AI-powered academic ecosystem with multi-agent orchestration).
+🔭 Currently building: Scalable AI solutions & IoT systems.
 
 🤖 AI Focus: RAG Pipelines, Vector Databases, Fine-tuning LLMs, and Agentic Workflows.
 
 🧠 Grinding: Active on NeetCode 150 (C++ DSA) & exploring Transformers architecture.
 
-🤝 Community: Member of Vision Club, teaching tech literacy to school students in rural villages.
+🤝 Community: Web Dev Lead at Developer Student Club (DSC), organizing workshops and leading technical projects.
 
 🏆 Achievements & Hackathons
 
@@ -68,11 +68,23 @@ Tech Stack
 
 Description
 
-🤖 AcadMate
+🤖 Cerese AI
 
-RAG LLMs FastAPI
+GenAI LLMs
 
-Flagship Project. A smart campus assistant featuring a 3-agent system: Crow (Quick info), Falcon (Deep RAG reasoning), and Eagle (Exam prep).
+(In Progress) Advanced AI solution focusing on... [Add brief description]
+
+⚡ IoT Optimization
+
+IoT Embedded C
+
+System designed to optimize power consumption and efficiency in... [Add brief description]
+
+👋 SignBridge
+
+Computer Vision AI
+
+Real-time sign language translation tool to bridge communication gaps... [Add brief description]
 
 🔎 FoundIt
 
@@ -84,7 +96,7 @@ AI-powered Lost & Found portal. Uses image recognition to match lost items with 
 
 Transformers NLP
 
-IIM Mumbai Winner. Fine-tuned BERT model to classify Q&A segments in financial transcripts with high accuracy.
+IIM Mumbai Winner. Fine-tuned BERT model to classify Q&A segments in financial transcripts.
 
 🚗 GroupGo
 
