@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img src="/mnt/data/102210a3-2fbe-42dd-af28-c0ce8b9f16e9.png" width="600" />
-font=Fira+Code&size=28&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Nithin+G!;ISE+Student+%40+JSSSTU;5x+Hackathon+Winner+🏆;Web+Dev+Lead+%40+DSC" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Nithin+G!;ISE+Student+%40+JSSSTU;5x+Hackathon+Winner+🏆;Web+Dev+Lead+%40+DSC" />
+
 
 <br/>
 
@@ -89,9 +89,9 @@ I am a **Pre-final year Information Science Engineering student at JSSSTU, Mysor
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=17nithinnayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=17nithinnayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17nithinnayak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=17nithinnayak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
