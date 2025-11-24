@@ -1,121 +1,100 @@
-<!-- HEADER -->
+# 💫 Hey, I'm Nithin G!
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D28%26pause%3D1000%26color%3D00FFAB%26center%3Dtrue%26vCenter%3Dtrue%26width%3D700%26lines%3DHey%252C%2BI%27m%2BNithin%2BG!%3BISE%2BStudent%2B%2540%2BJSSSTU%3B5x%2BHackathon%2BWinner+🏆;Web+Dev+Lead+%40+DSC" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Nithin+G!;ISE+Student+%40+JSSSTU;5x+Hackathon+Winner+🏆;Web+Dev+Lead+%40+DSC" />
+
+<br/>
 
 <p>
 <a href="https://www.linkedin.com/in/nithin-g-026b2627a/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:nithinnayak165@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.google.com/search?q=https://leetcode.com/u/nithinnayak">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dwhite" />
+
+<a href="https://leetcode.com/u/nithinnayak/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 </p>
+
 </div>
 
-👨‍💻 About Me
+---
 
-I am a Pre-final year Information Science Engineering student at JSSSTU, Mysore, passionate about bridging the gap between complex AI models and real-world utility.
+# 👨‍💻 About Me
 
-🔭 Currently building: Scalable AI solutions & IoT systems.
+I am a **Pre-final year Information Science Engineering student at JSSSTU, Mysore**, passionate about **bridging the gap between complex AI models and real-world utility**.
 
-🤖 AI Focus: RAG Pipelines, Vector Databases, Fine-tuning LLMs, and Agentic Workflows.
+- 🔭 **Currently building:** Scalable AI solutions & IoT systems  
+- 🤖 **AI Focus:** RAG Pipelines, Vector Databases, Fine-tuning LLMs, Agentic Workflows  
+- 🧠 **Grinding:** NeetCode 150 (C++ DSA) & exploring Transformer architecture  
+- 🤝 **Community:** Web Dev Lead at Developer Student Club (DSC)  
+- 💬 Conducting workshops & leading technical projects  
 
-🧠 Grinding: Active on NeetCode 150 (C++ DSA) & exploring Transformers architecture.
+---
 
-🤝 Community: Web Dev Lead at Developer Student Club (DSC), organizing workshops and leading technical projects.
+# 🏆 Achievements & Hackathons
 
-🏆 Achievements & Hackathons
+### 🥇 Winner of **5 Hackathons**
+- **1st Place – Case Study Competition @ IIM Mumbai**  
+  Fine-tuned transformer model for **financial transcript answer classification**.
+- *(Add other wins similarly, e.g., HackFusion, MIT Hackathon, etc.)*
 
-🥇 Winner of 5 Hackathons
+### ⭐ Additional Highlights
+- **Top Performer** in Kaggle competitions  
 
-1st Place - Case Study Competition @ IIM Mumbai: Developed Answer Classifier, a fine-tuned transformer model for financial transcripts.
+---
 
-(Add your other specific hackathon wins here briefly, e.g., "Winner of [Hackathon Name] for [Project Name]")
+# 🛠️ Technical Arsenal
 
-Top Performer in Kaggle Competitions.
+### 🧠 AI & ML
+- Transformers (BERT, GPT), LoRA  
+- RAG Pipelines  
+- Vector Databases (FAISS, Pinecone)  
+- CNNs, OpenCV  
 
-🛠️ Technical Arsenal
+### 🖥️ Backend & Database
+- FastAPI, Node.js  
+- MongoDB, PostgreSQL  
+- Redis  
 
-Domain
+### 📚 Languages
+- Python, C++, JavaScript, C  
 
-Technologies
+### 🧰 Tools
+- Docker, GitHub Actions  
+- Streamlit, Hugging Face  
+- Linux  
 
-Languages
+---
 
+# 🚀 Featured Projects
 
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| **🤖 Cerese AI** | GenAI, LLMs | (In progress) Agentic AI system for reasoning workflows. |
+| **⚡ IoT Optimization** | Embedded C | Power-efficient IoT optimization system. |
+| **👋 SignBridge** | OpenCV, CNN | Real-time sign-language recognition and translation. |
+| **🔎 FoundIt** | FastAPI, MongoDB, AI | AI-based Lost & Found platform using image similarity. |
+| **💬 Answer Classifier** | BERT, NLP | IIM Mumbai winning task: Q&A segment classification. |
+| **🚗 GroupGo** | DAA, Python | Carpool route optimizer using graph algorithms. |
 
-AI & ML
+---
 
-
-
-Backend & DB
-
-
-
-Tools
-
-
-
-🚀 Featured Projects
-
-Project
-
-Tech Stack
-
-Description
-
-🤖 Cerese AI
-
-GenAI LLMs
-
-(In Progress) Advanced AI solution focusing on... [Add brief description]
-
-⚡ IoT Optimization
-
-IoT Embedded C
-
-System designed to optimize power consumption and efficiency in... [Add brief description]
-
-👋 SignBridge
-
-Computer Vision AI
-
-Real-time sign language translation tool to bridge communication gaps... [Add brief description]
-
-🔎 FoundIt
-
-FastAPI MongoDB AI
-
-AI-powered Lost & Found portal. Uses image recognition to match lost items with found reports automatically.
-
-💬 Answer Classifier
-
-Transformers NLP
-
-IIM Mumbai Winner. Fine-tuned BERT model to classify Q&A segments in financial transcripts.
-
-🚗 GroupGo
-
-Algorithms Python
-
-Smart carpool matching system optimizing routes using Advanced Design & Analysis of Algorithms concepts.
-
-📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D17nithinnayak%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26count_private%3Dtrue" />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D17nithinnayak%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=17nithinnayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17nithinnayak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
 </div>
 
-<br />
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3D17nithinnayak%26theme%3Donedark%26no-frame%3Dtrue%26margin-w%3D15" />
-</div>
+---
 
 <div align="center">
 <i>"I'm not aiming to be perfect, I'm aiming to improve daily. Let's build futuristic tech."</i>
