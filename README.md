@@ -28,7 +28,6 @@ I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** s
 
 ### 🧰 Tech Stack 
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-yellow?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -48,6 +47,7 @@ I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** s
 
 | Project | Description |
 |--------|-------------|
+| 🍃 [**Cerese AI**](https://github.com/17nithinnayak/cerese-ai) | An AI agronomist for the coffee and pepper growers of Coorg, using a hybrid offline/online model that provides instant, hyper-local advice in their kannada. |
 | 🔎 [**FoundIt**](https://github.com/17nithinnayak/FoundIt) | AI-powered campus Lost & Found portal built with FastAPI & MongoDB |
 | 🚗 [**GroupGo**](https://github.com/17nithinnayak/GroupGo) | Smart carpool matching system using ADA concepts |
 | 💬 [**Answer Classifier**](https://github.com/17nithinnayak/FIntech-Mavericks) | Fine-tuned Transformer for classifying Q&A in transcripts(Won 1st place in Case study comp by IIM Mumbai for this project) |
