@@ -10,10 +10,10 @@
 
 I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** student from **JSSSTU, Mysore**.
 
-- 🚀 Currently working on: `RAG`, `VECTOR DBs`, `LLMs` and `DSA`
-- 🤖 Exploring: Generative AI, FastAPI, MongoDB, Deep Learning, Transformers  
-- 🧠 Learning: C++ DSA, AI for Business Decision-Making (MIT x IIM course)  
-- 🏆 Participated in multiple hackathons and Kaggle competitions  
+- 🚀 Currently working on: `RAG`, `VECTOR DBs`, `Agentic AI` and `DSA`
+- 🤖 Exploring: Networks, CyberSec, Generative AI, FastAPI, SQL, Deep Learning, Transformers  
+- 🧠 Learning: C++ DSA, Neetcode 150 and AI Agents
+- 🏆 5X National level Hackthon Wins
 
 ---
 
