@@ -47,6 +47,7 @@ I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** s
 
 | Project | Description |
 |--------|-------------|
+| ⚡ [**IoT Optimization Framework**](https://github.com/17nithinnayak/iot-optimization-framework) | A framework for IoT devices which saves battery drainage and provides kyber 512 secuirty. |
 | 🍃 [**Cerese AI**](https://github.com/17nithinnayak/cerese-ai) | An AI agronomist for the coffee and pepper growers of Coorg, using a hybrid offline/online model that provides instant, hyper-local advice in their kannada. |
 | 🔎 [**FoundIt**](https://github.com/17nithinnayak/FoundIt) | AI-powered campus Lost & Found portal built with FastAPI & MongoDB |
 | 🚗 [**GroupGo**](https://github.com/17nithinnayak/GroupGo) | Smart carpool matching system using ADA concepts |
