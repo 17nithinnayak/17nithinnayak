@@ -14,6 +14,7 @@ I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** s
 - 🤖 Exploring: Networks, CyberSec, Generative AI, FastAPI, SQL, Deep Learning, Transformers  
 - 🧠 Learning: C++ DSA, Neetcode 150 and AI Agents
 - 🏆 5X National level Hackthon Wins
+- 🌐 Web Dev Lead @ DSC-JSSSTU
 
 ---
 
