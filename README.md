@@ -8,7 +8,7 @@
 
 ### 👋 About Me
 
-I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** student from **JSSSTU, Mysore**.
+I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** student from **JSSSTU, Mysuru**.
 
 - 🚀 Currently working on: `RAG`, `VECTOR DBs`, `Agentic AI` and `DSA`
 - 🤖 Exploring: Networks, CyberSec, Generative AI, FastAPI, SQL, Deep Learning, Transformers  
