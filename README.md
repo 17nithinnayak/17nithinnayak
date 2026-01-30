@@ -61,4 +61,4 @@ I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** s
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=17nithinnayak&bg_color=ffffff&color=000000&line=0077b6&point=000000&area=true&hide_border=true)
 
 
-> 🧑‍🎓 *"I'm not aiming to be perfect, I'm aiming to improve daily. Let's build futuristic tech."* – Nithin
+> 🧑‍🎓 *"I'm not aiming to be perfect, I'm aiming to improve daily. Let's build futuristic Tech."* – Nithin
