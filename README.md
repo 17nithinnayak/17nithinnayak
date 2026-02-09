@@ -38,11 +38,6 @@ I'm an aspiring **AI-ML Developer** and an **Information Science Engineering** s
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-### 🏆 GitHub Trophies
-[[![trophy](https://github-profile-trophy.vercel.app/?username=17nithinnayak&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)]
-)
-
----
 
 ### 🚀 Projects
 
