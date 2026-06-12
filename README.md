@@ -48,10 +48,15 @@ I'm an **Information Science Engineering** student at **JSSSTU, Mysuru** and a *
 <div align="center">
   <img src="https://raw.githubusercontent.com/17nithinnayak/17nithinnayak/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
 ---
 
 ## 📊 GitHub Contribution Graph
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=17nithinnayak&bg_color=ffffff&color=000000&line=0077b6&point=000000&area=true&hide_border=true)
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=17nithinnayak.17nithinnayak&" alt="Visitors" />
+</div>
 
 > 🧑‍🎓 *"I'm not aiming to be perfect, I'm aiming to improve daily. Let's build futuristic Tech."* – Nithin
