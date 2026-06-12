@@ -43,7 +43,7 @@ I'm an **Information Science Engineering** student at **JSSSTU, Mysuru** and a *
 | Project | Description |
 |--------|-------------|
 | 🔠 [**Kannada-GPT**](https://github.com/17nithinnayak/Micro-KannadaGPT) | Built a 4-layer GPT-2 style decoder-only transformer from scratch in PyTorch specifically for Kannada text generation. |
-| 🧠 [**LoRA from Scratch**]([https://github.com/17nithinnayak/lora-from-scratch](https://github.com/17nithinnayak/Micro-KannadaGPT)) | Implementation of Low-Rank Adaptation (LoRA) for efficient model fine-tuning, built entirely from the ground up to understand the underlying mathematics. |
+| 🧠 [**LoRA from Scratch**](https://github.com/17nithinnayak/LoRA) | Implementation of Low-Rank Adaptation (LoRA) for efficient model fine-tuning, built entirely from the ground up to understand the underlying mathematics. |
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/17nithinnayak/17nithinnayak/output/github-contribution-grid-snake.svg" alt="Snake animation" />
